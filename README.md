@@ -6,7 +6,7 @@ This repository contains two Python Jupyter Notebook files designed as a short (
 Please cite this dissertation and/or forthcoming papers if using this work for any purpose.  
 Wibisono (2024), titled *[Scale-Model Investigation of Brittle Tunnel Failure Using a True-Triaxial Device](https://scholar.google.com/citations?user=9D0hPe0AAAAJ&hl=en&oi=ao)*.  
 
-_for log-spiral_: Wibisono and Gutierrez (forthcoming), titled *[Investigation of Tunnel Spalling Using a Large-Scale Tunnel Model and Triaxial Extension Experiments](https://scholar.google.com/citations?user=9D0hPe0AAAAJ&hl=en&oi=ao)*.  
+_for log-spiral_: Wibisono and Gutierrez (forthcoming), titled *[New Insights Into Tunnel Spalling From Scale Model and Element Testing](https://scholar.google.com/citations?user=9D0hPe0AAAAJ&hl=en&oi=ao)*.  
 _for Bézier curve_: Wibisono and Gutierrez (forthcoming), titled *[Rockburst Analysis in Tunnel Under Anisotropic Loading Based on Large-Scale Tunnel Model Experiment and Triaxial Extension Test](https://scholar.google.com/citations?user=9D0hPe0AAAAJ&hl=en&oi=ao)*.
 
 ## Notebooks
